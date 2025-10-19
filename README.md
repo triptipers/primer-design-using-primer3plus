@@ -40,7 +40,7 @@ Below is an image showing the **primer binding sites** and amplification region 
 ## 🧑‍💻 Author
 **Tripti Rani**  
 *M.Sc. Biotechnology | Molecular Biology & Bioinformatics Enthusiast*  
-🔗 [GitHub Profile](https://github.com/yourusername)
+🔗 [GitHub Profile]https://github.com/triptipers )
 
 ---
 
